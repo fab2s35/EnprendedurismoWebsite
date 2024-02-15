@@ -63,6 +63,10 @@ footer p {
     margin-top: 20px;
 }
 
+.text-center {
+    background-color: #ECB159;
+}
+
 @import url(//fonts.googleapis.com/css?family=Montserrat:300,500);
 .team4 {
   font-family: "Montserrat", sans-serif;
@@ -101,4 +105,9 @@ footer p {
   -webkit-transform: translate3d(0px, -5px, 0px);
   transform: translate3d(0px, -5px, 0px);
 	color: #316ce8;
+}
+
+.bannerInfo {
+  background-color: #8CB9BD;
+  margin-bottom: 8px;
 }
